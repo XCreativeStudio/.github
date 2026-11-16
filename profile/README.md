@@ -4,49 +4,56 @@
 
 # XCreative Studio
 
-**Make something people want.**
+**Make something people want.** <sub>— Y Combinator</sub>
 
-<sub>独立产品工作室 · 只做有人真的需要的产品</sub>
+**Fall in love with the problem, not the solution.** <sub>— Uri Levine, *Fall in Love with the Problem, Not the Solution*</sub>
+
+An independent product studio. We take our own products from a problem worth solving to something people actually use.
 
 [![Email](https://img.shields.io/badge/xminimalistcreativehub%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xminimalistcreativehub@gmail.com)
-[![Repositories](https://img.shields.io/badge/查看全部仓库-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/XCreativeStudio/repositories)
+[![Repositories](https://img.shields.io/badge/all%20repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/XCreativeStudio/repositories)
 
 </div>
 
 ---
 
-## 我们是谁
+## Products
 
-XCreative Studio 是一个独立产品工作室。想法、设计、实现、上线、维护，整条链路自己走完，一次只专心把一件小事做好。
+One product, one repo. Code and product ship together.
 
-我们不太相信「大而全」，更相信一个具体到不能再具体的问题、一个不用读说明书就能上手的界面，以及一个不会在你背后偷偷收集数据的服务。
-
-## 产品
-
-一个产品一个仓库，代码和产品一起演进。
-
-| 产品 | 是什么 | 技术栈 | 在线体验 |
+| Product | What it is | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | 面向开发者与创作者的在线工具箱：JSON 处理、格式化、编码、文本工具……打开即用，绝大多数工具完全跑在你的浏览器里。 | TypeScript | [quicktool.dev](https://quicktool.dev) |
-| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | 把任何一条 URL 干净地拆成协议、域名、路径和查询参数，一眼看清它到底带了什么。 | Nuxt 4 · Vue · Tailwind | [urlformatter.vercel.app](https://urlformatter.vercel.app) |
+| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | A fast, privacy-first toolbox for developers and creators — JSON, formatting, encoding, text utilities and more. Most tools never leave your browser. | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
+| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | Paste any URL and see exactly what it is made of: protocol, host, path, and every query parameter, parsed, validated and laid out. | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
 
-> 还有几个在做了。新项目都会在这里建仓，保持同样的调性。
+More in the oven. Every new product gets its own repo here and is built to the same standard.
 
-## 我们做产品的四条准则
+## What we believe
 
-- **隐私优先** —— 能在浏览器里算完的，就不上传服务器；不用注册也能用。
-- **一个工具只干一件事** —— 做到别人不必再找第二个。
-- **先发布，再打磨** —— 拿真实反馈迭代，比在本地想三个月更有用。
-- **尽量开源** —— 除非有明确理由，产品代码都摆在明面上。
+**1. Fall in love with the problem, not the solution.**
+We don't start with a stack or a trend looking for a use case. We start with a problem that keeps nagging us, and stay with it long enough to understand it better than the people who have been living with it for years. The solution is the easy part once the problem is truly understood. Almost every product fails for skipping this step.
 
-**技术栈**　TypeScript · Vue / Nuxt · Node.js · Python　｜　Vercel · 微信云开发
+**2. Do the hard, right thing.**
+Hard is not the goal — right is. But when the right answer happens to be the harder one, we take it: the unglamorous data cleanup, the edge cases nobody wants to enumerate, the infrastructure that has to exist before the nice part can work. The easy path is usually easy because someone already took the value out of it.
 
-## English
+**3. Do the work others skip.**
+The reliable way to make something people want is to do what everyone else finds too boring, too slow, or too much trouble. That is where the quality lives, and it is very hard to copy.
 
-XCreative Studio is an independent product studio. We take our own products from idea to launch, and keep them small, focused, and private by default — most tools run entirely in your browser, and nothing leaves it unless it has to.
+**4. One thing at a time.**
+Each stage of a product has exactly one job. At the start it is finding out whether the problem is real. Then it is making the thing good enough. Only then is it growth. We resist doing all three at once, because that is how all three get done badly.
 
-Live today: **[QuickTool](https://quicktool.dev)**, a fast online toolbox for developers and creators, and **[URL Formatter](https://urlformatter.vercel.app)**, a clean URL dissector. More on the way.
+**5. Privacy by default, not by policy page.**
+If a computation can happen in your browser, it happens in your browser. No account required to use the thing, no tracking that exists only to fill a dashboard, no data collected that the product does not need.
 
-## 联系
+**6. Ship early, keep shipping.**
+A released version teaches you more in a week than three months of internal debate. We would rather be corrected by real users than be right in private.
 
-有新想法、发现了 bug，或者只是想说句话 —— 直接开 issue，或者写信到 [xminimalistcreativehub@gmail.com](mailto:xminimalistcreativehub@gmail.com)。
+## How we build
+
+TypeScript · Vue / Nuxt · Node.js · Python. Deployed on Vercel, with WeChat Cloud for mini programs.
+
+Small codebases. Boring technology, chosen on purpose. Open by default — unless there is a clear reason not to be.
+
+## Get in touch
+
+Found a bug, have an idea, or just want to say something? Open an issue on the relevant repo, or write to [xminimalistcreativehub@gmail.com](mailto:xminimalistcreativehub@gmail.com).
