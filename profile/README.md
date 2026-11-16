@@ -1,8 +1,7 @@
 <div align="center">
-
+<H3>XCreative Studio</H3>
+  
 *“Start with a problem — a problem that, if solved, would make the world a better place.”*
-
-An independent studio. Small tools, built and maintained by one person.
 
 [Email](mailto:xminimalistcreativehub@gmail.com) · [Repositories](https://github.com/orgs/XCreativeStudio/repositories) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)
 
