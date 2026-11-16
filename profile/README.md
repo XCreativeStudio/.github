@@ -8,7 +8,7 @@
 **“Start with a problem — a problem that, if solved, would make the world a better place.”**<br>
 <sub>the line that opens Uri Levine's *Fall in Love with the Problem, Not the Solution*</sub>
 
-An independent product studio. We take our own products from a problem worth solving to something people actually use.
+An independent studio. Small tools, built and maintained by one person.
 
 <sub>[English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)</sub>
 
@@ -25,31 +25,26 @@ One product, one repo. Code and product ship together.
 
 | Product | What it is | Stack | Live |
 | :--- | :--- | :--- | :--- |
-| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | A fast, privacy-first toolbox for developers and creators — JSON, formatting, encoding, text utilities and more. Most tools never leave your browser. | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
-| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | Paste any URL and see exactly what it is made of: protocol, host, path, and every query parameter, parsed, validated and laid out. | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
+| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | A toolbox for developers and creators — JSON, formatting, encoding, text utilities. Most tools run in your browser. | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
+| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | Paste a URL and see what it's made of: protocol, host, path, and every query parameter. | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
 
-More are on the way. Every new product gets its own repo here, built the same way.
+More are on the way. Each new product gets its own repo here.
 
-## What we believe
+## How I work
 
-**Start with a problem, not an idea.** If we can't say who has this problem and what they do about it today, we're not ready to build anything.
+XCreative Studio is one person. I build small tools, usually starting from something that annoyed me, and keep the ones that turn out to be useful to other people too. The rest get shut down.
 
-**Solve something real.** The test isn't whether someone would click it — it's whether anything actually changes if it works.
+A few rules I've settled on, mostly by getting them wrong first:
 
-**Do the invisible work right.** Edge cases, migrations, cleanup. Nobody thanks you for them, which is usually why they get skipped.
+- **Understand the problem before writing code.** If I can't describe who has it and what they do today, I'm building for myself. That's allowed — I just need to know which one it is.
+- **Pick the boring solution.** I'd rather ship something small I can still maintain in two years than something impressive I can't.
+- **Keep data in the browser when possible.** Not a slogan — I just don't want to be responsible for other people's data.
+- **Ship early.** My guesses about what people want are wrong often enough that waiting to be sure costs more than shipping.
 
-**Finish one thing.** Small and complete beats big and half-done. Scope is a decision, not a limit to route around.
+## Stack
 
-**Keep data with its owner.** If a calculation can run in the browser, it runs in the browser. No account, no upload, nothing kept that we don't need.
+TypeScript · Vue / Nuxt · Node.js · Python. Deployed on Vercel, with WeChat Cloud for mini programs. Small codebases, boring technology, open by default.
 
-**Ship early.** A release tells us more than a meeting does.
+## Contact
 
-## How we build
-
-TypeScript · Vue / Nuxt · Node.js · Python. Deployed on Vercel, with WeChat Cloud for mini programs.
-
-Small codebases. Boring technology, chosen on purpose. Open by default — unless there is a clear reason not to be.
-
-## Get in touch
-
-Found a bug, have an idea, or just want to say something? Open an issue on the relevant repo, or write to [xminimalistcreativehub@gmail.com](mailto:xminimalistcreativehub@gmail.com).
+Something broken, or an idea to share? Open an issue on the relevant repo, or email me at [xminimalistcreativehub@gmail.com](mailto:xminimalistcreativehub@gmail.com).
