@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/356917963?s=200&v=4" width="96" alt="XCreative Studio" />
-
-# XCreative Studio
-
-**“Start with a problem — a problem that, if solved, would make the world a better place.”**
+*“Start with a problem — a problem that, if solved, would make the world a better place.”*
 
 An independent studio. Small tools, built and maintained by one person.
 
-<sub>[English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)</sub>
-
-[![Email](https://img.shields.io/badge/xminimalistcreativehub%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xminimalistcreativehub@gmail.com)
-[![Repositories](https://img.shields.io/badge/all%20repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/XCreativeStudio/repositories)
+[Email](mailto:xminimalistcreativehub@gmail.com) · [Repositories](https://github.com/orgs/XCreativeStudio/repositories) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)
 
 </div>
 

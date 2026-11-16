@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/356917963?s=200&v=4" width="96" alt="XCreative Studio" />
-
-# XCreative Studio
-
-**「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」**
+*「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」*
 
 独立工作室。做一些小工具，一个人写，一个人维护。
 
-<sub>[English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)</sub>
-
-[![Email](https://img.shields.io/badge/xminimalistcreativehub%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xminimalistcreativehub@gmail.com)
-[![Repositories](https://img.shields.io/badge/查看全部仓库-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/XCreativeStudio/repositories)
+[邮箱](mailto:xminimalistcreativehub@gmail.com) · [全部仓库](https://github.com/orgs/XCreativeStudio/repositories) · [English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md)
 
 </div>
 
