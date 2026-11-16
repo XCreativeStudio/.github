@@ -4,9 +4,7 @@
 
 # XCreative Studio
 
-**Make something people want.** <sub>— Y Combinator</sub><br>
-**「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」**<br>
-<sub>——《做难而正确的事》开篇</sub>
+**「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」**
 
 独立工作室。做一些小工具，一个人写，一个人维护。
 
@@ -43,7 +41,16 @@ XCreative Studio 就一个人。做的都是小工具，起点通常是某件把
 
 ## 技术
 
-TypeScript · Vue / Nuxt · Node.js · Python。部署在 Vercel，小程序用微信云开发。代码库小一点，技术选无聊一点，默认开源。
+日常真正在用的，不只是上面几个仓库碰巧用到的：
+
+| | |
+| :--- | :--- |
+| **语言** | TypeScript · Python · Go · Rust |
+| **Web** | Vue / Nuxt · React / Next.js · Tailwind CSS |
+| **后端** | Node.js · FastAPI · PostgreSQL · SQLite · Redis |
+| **客户端** | 微信小程序 · Tauri · PWA |
+| **基础设施** | Vercel · Cloudflare Workers · Docker · GitHub Actions |
+| **AI** | LLM API · RAG · 工具调用 · MCP |
 
 ## 联系
 

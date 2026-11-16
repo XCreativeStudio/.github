@@ -4,9 +4,7 @@
 
 # XCreative Studio
 
-**Make something people want.** <sub>— Y Combinator</sub><br>
-**“Start with a problem — a problem that, if solved, would make the world a better place.”**<br>
-<sub>the line that opens Uri Levine's *Fall in Love with the Problem, Not the Solution*</sub>
+**“Start with a problem — a problem that, if solved, would make the world a better place.”**
 
 An independent studio. Small tools, built and maintained by one person.
 
@@ -43,7 +41,16 @@ A few rules I've settled on, mostly by getting them wrong first:
 
 ## Stack
 
-TypeScript · Vue / Nuxt · Node.js · Python. Deployed on Vercel, with WeChat Cloud for mini programs. Small codebases, boring technology, open by default.
+What I work in day to day, not just what the repos above happen to use:
+
+| | |
+| :--- | :--- |
+| **Languages** | TypeScript · Python · Go · Rust |
+| **Web** | Vue / Nuxt · React / Next.js · Tailwind CSS |
+| **Backend** | Node.js · FastAPI · PostgreSQL · SQLite · Redis |
+| **Clients** | WeChat Mini Program · Tauri · PWA |
+| **Infra** | Vercel · Cloudflare Workers · Docker · GitHub Actions |
+| **AI** | LLM APIs · RAG · tool-using agents · MCP |
 
 ## Contact
 
