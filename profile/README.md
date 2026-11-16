@@ -4,11 +4,13 @@
 
 # XCreative Studio
 
-**Make something people want.** <sub>— Y Combinator</sub>
-
-**Fall in love with the problem, not the solution.** <sub>— Uri Levine, *Fall in Love with the Problem, Not the Solution*</sub>
+**Make something people want.** <sub>— Y Combinator</sub><br>
+**“Start with a problem — a problem that, if solved, would make the world a better place.”**<br>
+<sub>the line that opens Uri Levine's *Fall in Love with the Problem, Not the Solution*</sub>
 
 An independent product studio. We take our own products from a problem worth solving to something people actually use.
+
+<sub>[English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)</sub>
 
 [![Email](https://img.shields.io/badge/xminimalistcreativehub%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xminimalistcreativehub@gmail.com)
 [![Repositories](https://img.shields.io/badge/all%20repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/XCreativeStudio/repositories)
@@ -30,23 +32,26 @@ More in the oven. Every new product gets its own repo here and is built to the s
 
 ## What we believe
 
-**1. Fall in love with the problem, not the solution.**
-We don't start with a stack or a trend looking for a use case. We start with a problem that keeps nagging us, and stay with it long enough to understand it better than the people who have been living with it for years. The solution is the easy part once the problem is truly understood. Almost every product fails for skipping this step.
+**A product starts as a problem, not an idea.**
+Before the first line of code, we have to be able to finish this sentence: *"Today, ____ has to ____ every time ____, and it costs them ____."* If we can't fill it in with a specific person and a specific moment, we don't have a product — we have an idea. Ideas bend to whatever is convenient. Problems don't. That rigidity is the whole value.
 
-**2. Do the hard, right thing.**
-Hard is not the goal — right is. But when the right answer happens to be the harder one, we take it: the unglamorous data cleanup, the edge cases nobody wants to enumerate, the infrastructure that has to exist before the nice part can work. The easy path is usually easy because someone already took the value out of it.
+**A problem worth solving should make something better, not just busier.**
+The bar is not "someone would click this." It is: if this worked perfectly, would anything actually be different? A tool that removes ninety seconds of friction from a developer's day, twice a day, clears the bar. A dashboard that exists to be admired does not. Most software dies on that question quietly, and no amount of polish brings it back.
 
-**3. Do the work others skip.**
-The reliable way to make something people want is to do what everyone else finds too boring, too slow, or too much trouble. That is where the quality lives, and it is very hard to copy.
+**Fall in love with the problem. Treat solutions as disposable.**
+Solutions *should* be rewritten — a first version is a hypothesis, not an heirloom. The problem is what must not move. The failure we watch for is quiet drift: the solution gets uncomfortable, so the problem gets redefined into something easier to sell. That is how a product loses the reason it existed.
 
-**4. One thing at a time.**
-Each stage of a product has exactly one job. At the start it is finding out whether the problem is real. Then it is making the thing good enough. Only then is it growth. We resist doing all three at once, because that is how all three get done badly.
+**Do the hard, right thing — because it's right, not because it's hard.**
+Difficulty is not a virtue, and "we suffered" is not a moat. But once you know the right answer, it almost always costs more than the tempting one: the migration you'd rather postpone, the edge cases nobody wants to enumerate, the plumbing that has to exist before the nice part can work. The shortcut never disappears. It gets deposited in the codebase and withdrawn by whoever comes next.
 
-**5. Privacy by default, not by policy page.**
-If a computation can happen in your browser, it happens in your browser. No account required to use the thing, no tracking that exists only to fill a dashboard, no data collected that the product does not need.
+**Small is a decision, not a stage.**
+We are not building small products on the way to something big. A tool that finishes one job is a finished product, not a prototype. Scope creep is usually not ambition — it is an unwillingness to decide who you are not building for.
 
-**6. Ship early, keep shipping.**
-A released version teaches you more in a week than three months of internal debate. We would rather be corrected by real users than be right in private.
+**Privacy is architecture, not a policy page.**
+The only reliable way to protect data is not to have it. If a computation can run in your browser, it runs in your browser: no upload, no account, no retention window you have to take our word for. Promising to handle data well is a weaker product than never needing it.
+
+**Ship to find out, then keep shipping.**
+Opinions about what users want are free and usually wrong, including ours. A release is the cheapest way to buy evidence. So the first version should be embarrassingly small, and the second version should answer a question.
 
 ## How we build
 
