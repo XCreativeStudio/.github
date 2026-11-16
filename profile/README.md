@@ -28,30 +28,21 @@ One product, one repo. Code and product ship together.
 | **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | A fast, privacy-first toolbox for developers and creators — JSON, formatting, encoding, text utilities and more. Most tools never leave your browser. | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
 | **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | Paste any URL and see exactly what it is made of: protocol, host, path, and every query parameter, parsed, validated and laid out. | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
 
-More in the oven. Every new product gets its own repo here and is built to the same standard.
+More are on the way. Every new product gets its own repo here, built the same way.
 
 ## What we believe
 
-**A product starts as a problem, not an idea.**
-Before the first line of code, we have to be able to finish this sentence: *"Today, ____ has to ____ every time ____, and it costs them ____."* If we can't fill it in with a specific person and a specific moment, we don't have a product — we have an idea. Ideas bend to whatever is convenient. Problems don't. That rigidity is the whole value.
+**Start with a problem, not an idea.** If we can't say who has this problem and what they do about it today, we're not ready to build anything.
 
-**A problem worth solving should make something better, not just busier.**
-The bar is not "someone would click this." It is: if this worked perfectly, would anything actually be different? A tool that removes ninety seconds of friction from a developer's day, twice a day, clears the bar. A dashboard that exists to be admired does not. Most software dies on that question quietly, and no amount of polish brings it back.
+**Solve something real.** The test isn't whether someone would click it — it's whether anything actually changes if it works.
 
-**Fall in love with the problem. Treat solutions as disposable.**
-Solutions *should* be rewritten — a first version is a hypothesis, not an heirloom. The problem is what must not move. The failure we watch for is quiet drift: the solution gets uncomfortable, so the problem gets redefined into something easier to sell. That is how a product loses the reason it existed.
+**Do the invisible work right.** Edge cases, migrations, cleanup. Nobody thanks you for them, which is usually why they get skipped.
 
-**Do the hard, right thing — because it's right, not because it's hard.**
-Difficulty is not a virtue, and "we suffered" is not a moat. But once you know the right answer, it almost always costs more than the tempting one: the migration you'd rather postpone, the edge cases nobody wants to enumerate, the plumbing that has to exist before the nice part can work. The shortcut never disappears. It gets deposited in the codebase and withdrawn by whoever comes next.
+**Finish one thing.** Small and complete beats big and half-done. Scope is a decision, not a limit to route around.
 
-**Small is a decision, not a stage.**
-We are not building small products on the way to something big. A tool that finishes one job is a finished product, not a prototype. Scope creep is usually not ambition — it is an unwillingness to decide who you are not building for.
+**Keep data with its owner.** If a calculation can run in the browser, it runs in the browser. No account, no upload, nothing kept that we don't need.
 
-**Privacy is architecture, not a policy page.**
-The only reliable way to protect data is not to have it. If a computation can run in your browser, it runs in your browser: no upload, no account, no retention window you have to take our word for. Promising to handle data well is a weaker product than never needing it.
-
-**Ship to find out, then keep shipping.**
-Opinions about what users want are free and usually wrong, including ours. A release is the cheapest way to buy evidence. So the first version should be embarrassingly small, and the second version should answer a question.
+**Ship early.** A release tells us more than a meeting does.
 
 ## How we build
 
