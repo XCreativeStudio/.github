@@ -1,6 +1,6 @@
 <div align="center">
 <H3>XCreative Studio</H3>
-  
+
 *“Start with a problem — a problem that, if solved, would make the world a better place.”*
 
 [Email](mailto:xminimalistcreativehub@gmail.com) · [Repositories](https://github.com/orgs/XCreativeStudio/repositories) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)
@@ -28,7 +28,6 @@ A few rules I've settled on, mostly by getting them wrong first:
 
 - **Understand the problem before writing code.** If I can't describe who has it and what they do today, I'm building for myself. That's allowed — I just need to know which one it is.
 - **Pick the boring solution.** I'd rather ship something small I can still maintain in two years than something impressive I can't.
-- **Keep data in the browser when possible.** Not a slogan — I just don't want to be responsible for other people's data.
 - **Ship early.** My guesses about what people want are wrong often enough that waiting to be sure costs more than shipping.
 
 ## Stack

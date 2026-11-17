@@ -1,8 +1,8 @@
 <div align="center">
 
-*「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」*
+<H3>XCreative Studio</H3>
 
-独立工作室。做一些小工具，一个人写，一个人维护。
+*「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」*
 
 [邮箱](mailto:xminimalistcreativehub@gmail.com) · [全部仓库](https://github.com/orgs/XCreativeStudio/repositories) · [English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md)
 
@@ -29,7 +29,6 @@ XCreative Studio 就一个人。做的都是小工具，起点通常是某件把
 
 - **先弄清问题，再写代码。** 说不清是谁遇到它、现在怎么应付，那就是在给自己做东西。这没什么不行——但要清楚是哪一种。
 - **选无聊的方案。** 宁愿做一个两年后我还能维护的小东西，也不做一个自己接不住的漂亮东西。
-- **能放在浏览器里算的，就不放服务器。** 不是为了写进介绍好看，纯粹是不想替别人的数据负责。
 - **早点发出去。** 我对「用户想要什么」的猜测错得够多，等到有把握再发，代价更大。
 
 ## 技术
