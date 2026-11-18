@@ -16,8 +16,8 @@
 
 | 产品 | 是什么 | 技术栈 | 在哪 |
 | :--- | :--- | :--- | :--- |
-| **[postMessage Catcher](https://xcreative.dev/postmessage-catcher)** | 一个 DevTools 面板，抓取每一帧里的 `window.postMessage` 消息——解析好的、带发送方归属的，刷新后还在。 | TypeScript · WXT · React | [商店](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [源码](https://github.com/XCreativeStudio/postMessage-catcher) |
-| **[Changicon](https://xcreative.dev/customize-tab-icon)** | 给任意网页换一个自己的图标——emoji、两个字母、线性图标或上传图片——按单个页面、子域名或整个站点生效。 | TypeScript · WXT · React · Tailwind | [商店](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [源码](https://github.com/XCreativeStudio/customize-tab-icon) |
+| **[postMessage Catcher](https://xcreative.dev/zh/postmessage-catcher)** | 一个 DevTools 面板，抓取每一帧里的 `window.postMessage` 消息——解析好的、带发送方归属的，刷新后还在。 | TypeScript · WXT · React | [商店](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [源码](https://github.com/XCreativeStudio/postMessage-catcher) |
+| **[Changicon](https://xcreative.dev/zh/customize-tab-icon)** | 给任意网页换一个自己的图标——emoji、两个字母、线性图标或上传图片——按单个页面、子域名或整个站点生效。 | TypeScript · WXT · React · Tailwind | [商店](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [源码](https://github.com/XCreativeStudio/customize-tab-icon) |
 
 还有在做的。新项目各自建仓，放在这里。
 

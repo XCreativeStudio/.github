@@ -15,8 +15,8 @@ One product, one repo. Code and product ship together.
 
 | Product | What it is | Stack | Where |
 | :--- | :--- | :--- | :--- |
-| **[postMessage Catcher](https://xcreative.dev/postmessage-catcher)** | A DevTools panel that records `window.postMessage` traffic from every frame — parsed, attributed, and kept across reloads. | TypeScript · WXT · React | [Store](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [Code](https://github.com/XCreativeStudio/postMessage-catcher) |
-| **[Changicon](https://xcreative.dev/customize-tab-icon)** | Gives any page its own favicon — an emoji, two letters, a line icon or an uploaded image — for one page, one subdomain, or a whole site. | TypeScript · WXT · React · Tailwind | [Store](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [Code](https://github.com/XCreativeStudio/customize-tab-icon) |
+| **[postMessage Catcher](https://xcreative.dev/en/postmessage-catcher)** | A DevTools panel that records `window.postMessage` traffic from every frame — parsed, attributed, and kept across reloads. | TypeScript · WXT · React | [Store](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [Code](https://github.com/XCreativeStudio/postMessage-catcher) |
+| **[Changicon](https://xcreative.dev/en/customize-tab-icon)** | Gives any page its own favicon — an emoji, two letters, a line icon or an uploaded image — for one page, one subdomain, or a whole site. | TypeScript · WXT · React · Tailwind | [Store](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [Code](https://github.com/XCreativeStudio/customize-tab-icon) |
 
 More are on the way. Each new product gets its own repo here.
 
