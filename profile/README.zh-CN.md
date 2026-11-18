@@ -2,7 +2,7 @@
 
 <H3>XCreative Studio</H3>
 
-*「从思考一个问题开始，一个如果得到解决将使世界变得更美好的问题。」*
+*Make something people want.* <sub>— Y Combinator</sub>
 
 [邮箱](mailto:xminimalistcreativehub@gmail.com) · [全部仓库](https://github.com/orgs/XCreativeStudio/repositories) · [English](https://github.com/XCreativeStudio/.github/blob/main/profile/README.md)
 
@@ -14,10 +14,10 @@
 
 一个产品一个仓库，代码和产品一起走。
 
-| 产品 | 是什么 | 技术栈 | 在线体验 |
+| 产品 | 是什么 | 技术栈 | 在哪 |
 | :--- | :--- | :--- | :--- |
-| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | 给开发者和创作者的在线工具箱：JSON、格式化、编码、文本工具。大部分工具在浏览器里跑完。 | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
-| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | 贴上一条 URL，看清它由什么组成：协议、域名、路径、每一个查询参数。 | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
+| **[postMessage Catcher](https://xcreative.dev/postmessage-catcher)** | 一个 DevTools 面板，抓取每一帧里的 `window.postMessage` 消息——解析好的、带发送方归属的，刷新后还在。 | TypeScript · WXT · React | [商店](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [源码](https://github.com/XCreativeStudio/postMessage-catcher) |
+| **[Changicon](https://xcreative.dev/customize-tab-icon)** | 给任意网页换一个自己的图标——emoji、两个字母、线性图标或上传图片——按单个页面、子域名或整个站点生效。 | TypeScript · WXT · React · Tailwind | [商店](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [源码](https://github.com/XCreativeStudio/customize-tab-icon) |
 
 还有在做的。新项目各自建仓，放在这里。
 
@@ -40,7 +40,7 @@ XCreative Studio 就一个人。做的都是小工具，起点通常是某件把
 | **语言** | TypeScript · Python · Go · Rust |
 | **Web** | Vue / Nuxt · React / Next.js · Tailwind CSS |
 | **后端** | Node.js · FastAPI · PostgreSQL · SQLite · Redis |
-| **客户端** | 微信小程序 · Tauri · PWA |
+| **客户端** | Chrome 扩展（MV3）· 微信小程序 · Tauri · PWA |
 | **基础设施** | Vercel · Cloudflare Workers · Docker · GitHub Actions |
 | **AI** | LLM API · RAG · 工具调用 · MCP |
 

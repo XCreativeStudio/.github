@@ -1,7 +1,7 @@
 <div align="center">
 <H3>XCreative Studio</H3>
 
-*“Start with a problem — a problem that, if solved, would make the world a better place.”*
+*Make something people want.* <sub>— Y Combinator</sub>
 
 [Email](mailto:xminimalistcreativehub@gmail.com) · [Repositories](https://github.com/orgs/XCreativeStudio/repositories) · [中文](https://github.com/XCreativeStudio/.github/blob/main/profile/README.zh-CN.md)
 
@@ -13,10 +13,10 @@
 
 One product, one repo. Code and product ship together.
 
-| Product | What it is | Stack | Live |
+| Product | What it is | Stack | Where |
 | :--- | :--- | :--- | :--- |
-| **[QuickTool](https://github.com/XCreativeStudio/quicktool)** | A toolbox for developers and creators — JSON, formatting, encoding, text utilities. Most tools run in your browser. | TypeScript | **[quicktool.dev](https://quicktool.dev)** |
-| **[URL Formatter](https://github.com/XCreativeStudio/url-formatter)** | Paste a URL and see what it's made of: protocol, host, path, and every query parameter. | Nuxt 4 · Vue · Tailwind | **[urlformatter.vercel.app](https://urlformatter.vercel.app)** |
+| **[postMessage Catcher](https://xcreative.dev/postmessage-catcher)** | A DevTools panel that records `window.postMessage` traffic from every frame — parsed, attributed, and kept across reloads. | TypeScript · WXT · React | [Store](https://chromewebstore.google.com/detail/postmessage-catcher/henlmhlhpgnkeecjjcbhhcfmecohnilo) · [Code](https://github.com/XCreativeStudio/postMessage-catcher) |
+| **[Changicon](https://xcreative.dev/customize-tab-icon)** | Gives any page its own favicon — an emoji, two letters, a line icon or an uploaded image — for one page, one subdomain, or a whole site. | TypeScript · WXT · React · Tailwind | [Store](https://chromewebstore.google.com/detail/changicon/pcnnpfojchdoapfnaanpibdkjbdmglhi) · [Code](https://github.com/XCreativeStudio/customize-tab-icon) |
 
 More are on the way. Each new product gets its own repo here.
 
@@ -39,7 +39,7 @@ What I work in day to day, not just what the repos above happen to use:
 | **Languages** | TypeScript · Python · Go · Rust |
 | **Web** | Vue / Nuxt · React / Next.js · Tailwind CSS |
 | **Backend** | Node.js · FastAPI · PostgreSQL · SQLite · Redis |
-| **Clients** | WeChat Mini Program · Tauri · PWA |
+| **Clients** | Chrome extensions (MV3) · WeChat Mini Program · Tauri · PWA |
 | **Infra** | Vercel · Cloudflare Workers · Docker · GitHub Actions |
 | **AI** | LLM APIs · RAG · tool-using agents · MCP |
 
